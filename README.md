@@ -1,3 +1,12 @@
 # Original-SQIsign-IdealMultiplication-with-Uniform-Bound
-an algorithm IdealMultiplication of original Round-2 SQIsign with uniform bound
-![화면 캡처 2025-12-22 164722](https://github.com/user-attachments/assets/e74890e0-f612-4693-b80c-664d2f2364ac)
+
+First, we recall the algorithm IdeaMultiplication of original Round-2 SQIsign.
+<img width="1083" height="376" alt="image" src="https://github.com/user-attachments/assets/87f39740-2f62-49f1-860d-f29b391b0c30" />
+
+
+We give an algorithm IdealMultiplication of original Round-2 SQIsign with uniform bound.
+<img width="1089" height="404" alt="image" src="https://github.com/user-attachments/assets/ec1a2877-e41a-4f6a-8492-548b620d00c0" />
+
+
+Finally, we recall the algorithm ModifiedIdealMultiplication, which enables computing Keygen and Sign of SQIsign with less precision.
+<img width="1085" height="362" alt="image" src="https://github.com/user-attachments/assets/c4adb5c8-1208-427b-ad53-95bd7f707526" />
