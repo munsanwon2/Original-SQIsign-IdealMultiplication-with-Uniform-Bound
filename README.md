@@ -9,4 +9,4 @@ We give an algorithm IdealMultiplication of original Round-2 SQIsign with unifor
 
 
 Finally, we recall the algorithm ModifiedIdealMultiplication, which enables computing Keygen and Sign of SQIsign with less precision.
-<img width="1085" height="362" alt="image" src="https://github.com/user-attachments/assets/c4adb5c8-1208-427b-ad53-95bd7f707526" />
+<img width="1091" height="367" alt="image" src="https://github.com/user-attachments/assets/3f7d6c2a-a503-4839-9f9f-02457b4a241f" />
